@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "inertial-particle-attractors",
+  "answer": "1.1",
+  "atol": "0",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}

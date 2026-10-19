@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "hidden-zero-constraints",
+  "answer": "415.5185185",
+  "atol": "5e-7",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}

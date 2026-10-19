@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "hubbard-imaginary-time",
+  "answer": "-117.4",
+  "atol": "1.2",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}
