@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "cross-feeding",
+  "answer": "0.7144",
+  "atol": "5e-5",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}
