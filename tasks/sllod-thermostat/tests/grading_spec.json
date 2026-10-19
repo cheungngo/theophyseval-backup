@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "sllod-thermostat",
+  "answer": "0.368421",
+  "atol": "5e-7",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}

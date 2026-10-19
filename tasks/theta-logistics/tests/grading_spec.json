@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "theta-logistics",
+  "answer": "3.2",
+  "atol": "0.05",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}
