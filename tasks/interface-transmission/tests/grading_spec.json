@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "interface-transmission",
+  "answer": "0.041617",
+  "atol": "1e-6",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "numeric",
+  "task": "radion-effective-action",
+  "answer": "[5,3]",
+  "atol": "0",
+  "rtol": "0",
+  "integer_paths": [],
+  "reduced_rationals": false
+}
